@@ -75,7 +75,7 @@ PhotoForYou est un site web de vente de photo . Il permet aux photographes profe
 - Remplacer les noms de la bdd pour que ca soit en cauhésion.
 - Rubrique Vente et Achat dans notre Profil.
 - Mettre un filigrane automatiquement sur les photos
-- Contact faire un Form pour la page.
+- Faire un Form pour la page Contact.
 - Photo qu'on like mettre en favoris.
 - Mettre en place une messagerie si possible.
 - Réussir à creer des réductions
