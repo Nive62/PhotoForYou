@@ -67,3 +67,7 @@ PhotoForYou est un site web de vente de photo . Il permet aux photographes profe
 ## Diagramme de cas d'utilisation
 
 ![SCD](CasUtilisation.png)
+
+## Truc à Faire
+
+![TaF](TrucàFaire.png)
