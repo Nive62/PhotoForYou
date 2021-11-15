@@ -71,3 +71,7 @@ PhotoForYou est un site web de vente de photo . Il permet aux photographes profe
 ## Truc à Faire
 
 ![TaF](TrucàFaire.png)
+
+## Truc important fait
+
+![Fait](Fait.png)
