@@ -70,8 +70,22 @@ PhotoForYou est un site web de vente de photo . Il permet aux photographes profe
 
 ## Truc à Faire
 
-![TaF](TrucàFaire.png)
+- Mettre un onglet Panier comme sur Amazon quand on passe au dessus on voit le panier.
+- Faire une page pour les achats avec débit des crédits.
+- Remplacer les noms de la bdd pour que ca soit en cauhésion.
+- Rubrique Vente et Achat dans notre Profil.
+- Mettre un filigrane automatiquement sur les photos
+- Contact faire un Form pour la page.
+- Photo qu'on like mettre en favoris.
+- Mettre en place une messagerie si possible.
+- Réussir à creer des réductions
+- Barre de recherche fonctionnelle.
+- Les plus populaires des photos avec les likes.
 
 ## Truc important fait
 
-![Fait](Fait.png)
+- Séparer l'achat et la vente entre les clients et photographe
+- Mise en ligne pour vendre pour les photographes
+- Achats de photos posté automatiquement sur le site via une bdd et un foreach
+- Rajout de Crédits juste pour des tests
+- Page mon profil avancé
