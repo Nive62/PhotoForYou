@@ -1,0 +1,11 @@
+1) Mettre un onglet Panier comme sur Amazon quand on passe au dessus on voit le panier.
+2) Faire une page pour les achats avec débit des crédits.
+3) Remplacer les noms de la bdd pour que ca soit en cauhésion.
+4)Rubrique Vente et Achat dans notre Profil.
+5) Mettre un filigrane automatiquement sur les photos
+6)Contact faire un Form pour la page 
+7) Photo qu'on like mettre en favoris
+8)Mettre en place une messagerie si possible
+9)Réussir à creer des réductions
+10) Barre de recherche fonctionnelle
+11)Les plus populaires des photos avec les likes
